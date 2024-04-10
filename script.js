@@ -153,7 +153,7 @@ function changeContent2() {
      textElement.style = "none";
      contentElement.innerHTML = "GRAPHIC SIGNATURE CREWNECK SWEATSHIRT";
  
-     var newBackgrounds = ['url(women1.jpg)', 'url(women.png)', 'url(women.png)'];
+     var newBackgrounds = ['url(women1.jpg)', 'url(women1.jpg)', 'url(women1.jpg)'];
 
      // Получаем все div'ы
      var divs = document.querySelectorAll('.bottomnavimg');
